@@ -1,0 +1,16 @@
+{
+	"name": "gulp-mini-style",
+	"version": "0.1.0",
+	"keywords": ["util", "gulp", "mini-style", "atomic-css", "css"],
+	"description": "gulp plugin of mini-style",
+	"license": "MIT",
+	"author": "KeNJiKunG <garo.kenjikung@gmail.com>",
+	"contributors": [],
+	"repository": "https://github.com/KeNJiKunG/gulp-mini-style",
+	"main": "main.js",
+	"dependencies": {
+		"through2": "^2.0.1",
+		"mini-style": "~0.1.0",
+		"gulp-util": "^3.0.7"
+	}
+}
